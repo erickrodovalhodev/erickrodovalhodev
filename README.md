@@ -1,4 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Erick%20Rodovalho&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20for%20DTC%20%26%20Shopify%20Brands&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<h1 align="center">Hi, I'm Erick Rodovalho 👋</h1>
+<h3 align="center">Full-Stack Developer for DTC &amp; Shopify Brands</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=640&lines=I+build+stores+that+convert.;Shopify+themes+%E2%80%A2+Headless+Next.js+%E2%80%A2+APIs;ERP+%26+inventory+integrations+that+just+work.;Turning+traffic+into+revenue+%F0%9F%9A%80" alt="Typing SVG" /></a>
@@ -66,4 +67,3 @@ I sit where **engineering meets conversion**: I build the storefronts, integrati
 Running a DTC brand and need a store that loads fast, converts better and integrates cleanly with your operations?
 **[Get in touch →](https://postclicklab.com)**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=110&section=footer" width="100%"/>
