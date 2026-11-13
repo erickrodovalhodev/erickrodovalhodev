@@ -15,7 +15,7 @@
 
 ### 👋 About me
 
-I'm a **full-stack developer at [ConversionWise](https://conversionwise.com)**, based in Brazil 🇧🇷 and working remotely with DTC brands worldwide.
+I'm a **full-stack developer at [ConversionWise](https://conversionwise.com)**, based in Brazil 🇧🇷 and working remotely with DTC brands worldwide. Shipping production e-commerce since 2019.
 
 I sit where **engineering meets conversion**: I build the storefronts, integrations and internal tools that let e-commerce teams ship faster, sell more and stop fighting their tech stack.
 
@@ -25,6 +25,18 @@ I sit where **engineering meets conversion**: I build the storefronts, integrati
 - ⚡ Comfortable across the stack: frontend, APIs, services and automation
 
 ---
+
+### 📈 Activity history
+
+Building e-commerce since **2019** — Shopify themes, Rails panels, Python automations, then headless storefronts and ERP integrations. The repositories from that period were migrated from a previous account, so the account is recent but the work is not.
+
+[2019](https://github.com/erickrodovalhodev?tab=overview&from=2019-12-01&to=2019-12-31) ·
+[2020](https://github.com/erickrodovalhodev?tab=overview&from=2020-01-01&to=2020-12-31) ·
+[2021](https://github.com/erickrodovalhodev?tab=overview&from=2021-01-01&to=2021-12-31) ·
+[2022](https://github.com/erickrodovalhodev?tab=overview&from=2022-01-01&to=2022-12-31) ·
+[2023](https://github.com/erickrodovalhodev?tab=overview&from=2023-01-01&to=2023-12-31) ·
+[2024](https://github.com/erickrodovalhodev?tab=overview&from=2024-01-01&to=2024-12-31) ·
+[2025](https://github.com/erickrodovalhodev?tab=overview&from=2025-01-01&to=2025-12-31)
 
 ### 🧰 Tech stack
 
